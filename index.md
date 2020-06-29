@@ -13,3 +13,5 @@ Es geht um einen Ringkrieg. Der Hobbit Frodo Beutelin erhält den Ring.
 * tapfer
 * positiv
 * witzig
+
+> Ich nehme den Ring! Ich bringe den Ring nach Mordor!
